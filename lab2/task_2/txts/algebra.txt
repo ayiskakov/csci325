@@ -1,0 +1,51 @@
+Algebra (Arabic: الجبر Al-Jabr, transl. 'reunion of broken parts'[1] or 'bone-setting';[2] [ʔldʒbr] listenⓘ) is the study of variables and the rules for manipulating these variables in formulas.[3] Originating in ancient Babylonian techniques of calculation, it is now a way of thinking that appears throughout almost all areas of mathematics.[4]
+
+Elementary algebra deals with the manipulation of variables (commonly represented by Roman letters) as if they were numbers and is therefore essential in all applications of mathematics. "Higher" or "abstract" algebra, which professional mathematicians typically just call "algebra", is the study of algebraic structures that generalize the operations familiar from ordinary arithmetic. For example, a group is a set with a binary operation, a rule for combining two members of that set to produce a third, which satisfies some of the same basic properties as addition of integers. Other algebraic structures include rings and fields. Linear algebra, which deals with linear equations and linear mappings, is used for modern presentations of geometry, and has many practical applications (in weather forecasting, for example). There are many areas of mathematics that belong to algebra, some having "algebra" in their name, such as commutative algebra, and some not, such as Galois theory.
+
+The word algebra is not only used for naming an area of mathematics and some subareas; it is also used for naming some sorts of algebraic structures, such as an algebra over a field, commonly called an algebra. Sometimes, the same phrase is used for a subarea and its main algebraic structures. For example, the subject known as Boolean algebra studies structures called Boolean algebras. A mathematician specialized in algebra is called an algebraist.
+
+Etymology
+
+The word algebra comes from the title of a book by Muhammad ibn Musa al-Khwarizmi.[5]
+The word algebra comes from the Arabic: الجبر, romanized: al-jabr, lit. 'reunion of broken parts,[1] bonesetting[2]' from the title of the early 9th century book ʿIlm al-jabr wa l-muqābala "The Science of Restoring and Balancing" by the Persian mathematician and astronomer al-Khwarizmi. In his work, the term al-jabr referred to the operation of moving a term from one side of an equation to the other, المقابلة al-muqābala "balancing" referred to adding equal terms to both sides. Shortened to just algeber or algebra in Latin, the word eventually entered the English language during the 15th century, from either Spanish, Italian, or Medieval Latin. It originally referred to the surgical procedure of setting broken or dislocated bones. The mathematical meaning was first recorded (in English) in the 16th century.[6]
+
+Definition
+Algebra is the branch of mathematics that studies algebraic operations[a] and algebraic structures.[8] An algebraic structure is a non-empty set of mathematical objects, such as the real numbers, together algebraic operations defined on that set, such addition and multiplication.[9] Algebra explores the laws, general characteristics, and types of algebraic structures. Within certain algebraic structures, it studies the use of variables in equations and how to manipulate these equations.[10]
+
+Algebra is often understood as a generalization of arithmetic.[11] Arithmetic studies arithmetic operations, like addition, subtraction, multiplication, and division, in a specific domain of numbers, like the real numbers.[12] Elementary algebra constitutes the first level of abstraction. Like arithmetic, it restricts itself to specific types of numbers and operations. It generalizes these operations by allowing indefinite quantities in the form of variables in addition to numbers.[13] A higher level of abstraction is achieved in abstract algebra, which is not limited to a specific domain and studies different classes of algebraic structures, like groups and rings. These algebraic structures are not restricted to typical arithmetic operations and cover other binary operations besides them.[14] Universal algebra is still more abstract in that it is not limited to binary operations and not interested in specific classes of algebraic structures but investigates the characteristics of algebraic structures in general.[15]
+
+The term "algebra" is sometimes used in a more narrow sense to refer only to elementary algebra or only to abstract algebra.[16] When used as a countable noun, an algebra is a specific type of algebraic structure that involves a vector space equipped with a certain type of binary operation.[17] Depending on the context, "algebra" can also refer to other algebraic structures, like a Lie algebra or an associative algebra.[18]
+
+Algebra as a branch of mathematics
+Algebra began with computations similar to those of arithmetic, with letters standing for numbers.[19] This allowed proofs of properties that are true no matter which numbers are involved. For example, in the quadratic equation
+
+a
+x
+2
++
+b
+x
++
+c
+=
+0
+,
+{\displaystyle ax^{2}+bx+c=0,}
+a
+,
+b
+,
+c
+{\displaystyle a,b,c} can be any numbers whatsoever (except that 
+a
+{\displaystyle a} cannot be 
+0
+{\displaystyle 0}), and the quadratic formula can be used to quickly and easily find the values of the unknown quantity 
+x
+{\displaystyle x} which satisfy the equation. That is to say, to find all the solutions of the equation.
+
+Historically, and in current teaching, the study of algebra starts with the solving of equations, such as the quadratic equation above. Then more general questions, such as "does an equation have a solution?", "how many solutions does an equation have?", "what can be said about the nature of the solutions?" are considered. These questions led extending algebra to non-numerical objects, such as permutations, vectors, matrices, and polynomials. The structural properties of these non-numerical objects were then formalized into algebraic structures such as groups, rings, and fields.
+
+Before the 16th century, mathematics was divided into only two subfields, arithmetic and geometry. Even though some methods, which had been developed much earlier, may be considered nowadays as algebra, the emergence of algebra and, soon thereafter, of infinitesimal calculus as subfields of mathematics only dates from the 16th or 17th century. From the second half of the 19th century on, many new fields of mathematics appeared, most of which made use of both arithmetic and geometry, and almost all of which used algebra.
+
+Today, algebra has grown considerably and includes many branches of mathematics, as can be seen in the Mathematics Subject Classification[20] where none of the first level areas (two digit entries) are called algebra. Today algebra includes section 08-General algebraic systems, 12-Field theory and polynomials, 13-Commutative algebra, 15-Linear and multilinear algebra; matrix theory, 16-Associative rings and algebras, 17-Nonassociative rings and algebras, 18-Category theory; homological algebra, 19-K-theory and 20-Group theory. Algebra is also used extensively in 11-Number theory and 14-Algebraic geometry.
