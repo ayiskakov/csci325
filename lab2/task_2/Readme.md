@@ -13,7 +13,7 @@ biology.txt: 0
 
 run with
 ```bash 
-cd lab2/task_2 && java TxtTextSearch.java ./txts "many branches of mathematics"
+cd lab2/task_2 && java TxtTextSearcher.java ./txts "many branches of mathematics"
 ```
 
 
