@@ -9,6 +9,9 @@ biology.txt: 0
 ❯ java TxtTextSearch.java ./txts "many branches mathematics geometry"
 algebra.txt: 21
 biology.txt: 0
+❯ java TxtTextSearcher.java ./txts "dna human genome"
+biology.txt: 7
+algebra.txt: 0
 ```
 
 run with
